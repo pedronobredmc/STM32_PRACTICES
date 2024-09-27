@@ -1,0 +1,4 @@
+C:/Users/pedro/Documents/Micro/BM_TIM2/F1_Header/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+../Src/main.c:17:6:led_off	1
+../Src/main.c:22:6:TIM2_IRQHandler	11
+../Src/main.c:98:5:main	1

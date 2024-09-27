@@ -1,0 +1,2 @@
+../Src/systic.c:11:6:systick_init	4	static
+../Src/systic.c:26:6:delay_ms	24	static

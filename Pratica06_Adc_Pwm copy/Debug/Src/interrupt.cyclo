@@ -1,0 +1,10 @@
+C:/Users/pedro/Documents/Micro/Pratica06_Adc_Pwm/F1_Header/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	2
+C:/Users/pedro/Documents/Micro/Pratica06_Adc_Pwm/F1_Header/Include/core_cm3.h:1639:22:__NVIC_SetPriority	2
+../Src/interrupt.c:13:6:init_pin_interrupt	18
+../Src/interrupt.c:50:6:EXTI0_IRQHandler	1
+../Src/interrupt.c:56:6:EXTI1_IRQHandler	1
+../Src/interrupt.c:62:6:EXTI2_IRQHandler	1
+../Src/interrupt.c:68:6:EXTI3_IRQHandler	1
+../Src/interrupt.c:74:6:EXTI4_IRQHandle	1
+../Src/interrupt.c:81:6:EXTI9_5_IRQHandler	6
+../Src/interrupt.c:119:6:EXTI15_10_IRQHandler	7
