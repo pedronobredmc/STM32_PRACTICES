@@ -1,0 +1,10 @@
+C:/Users/pedro/Documents/Micro/Pratica03_Systick/F1_Header/Include/core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+C:/Users/pedro/Documents/Micro/Pratica03_Systick/F1_Header/Include/core_cm3.h:1639:22:__NVIC_SetPriority	16	static
+../Src/interrupt.c:13:6:init_pin_interrupt	24	static,ignoring_inline_asm
+../Src/interrupt.c:50:6:EXTI0_IRQHandler	4	static
+../Src/interrupt.c:56:6:EXTI1_IRQHandler	4	static
+../Src/interrupt.c:62:6:EXTI2_IRQHandler	4	static
+../Src/interrupt.c:68:6:EXTI3_IRQHandler	4	static
+../Src/interrupt.c:74:6:EXTI4_IRQHandle	4	static
+../Src/interrupt.c:81:6:EXTI9_5_IRQHandler	4	static
+../Src/interrupt.c:119:6:EXTI15_10_IRQHandler	8	static

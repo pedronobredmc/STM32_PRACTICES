@@ -1,0 +1,4 @@
+../Src/gpio.c:10:6:init_GP	5
+../Src/gpio.c:42:5:R_GP	4
+../Src/gpio.c:64:6:W_GP	5
+../Src/gpio.c:85:6:toggle_GP	2
